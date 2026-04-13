@@ -94,7 +94,7 @@ namespace Lesson_2_Monogame
 
             _spriteBatch.Draw(rectangleTexture, bottomRect, Color.Red);
 
-            _spriteBatch.DrawString(textFont, "Hello, World.", new Vector2 (100, 100), Color.Brown);
+            _spriteBatch.DrawString(textFont, "wdp, Sigma.", new Vector2 (100, 100), Color.Brown);
 
             _spriteBatch.End();
 
